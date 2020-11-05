@@ -1,3 +1,5 @@
+// algorith
+
 export const dfst = (a, matrix) => {
     console.log(a,matrix)
     const n = matrix.length;
